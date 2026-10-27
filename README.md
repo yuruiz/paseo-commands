@@ -1,3 +1,6 @@
+> This plugin is now maintained in [paseo-plugins/commands](https://github.com/yuruiz/paseo-plugins/tree/main/commands).
+> Install with `paseo plugin add git:yuruiz/paseo-plugins:commands`. Existing tags remain available for compatibility.
+
 # Commands
 
 Browse commands for the current agent, inspect their Markdown and send them with arguments. **Commands** above the composer opens an anchored popover on desktop and a sheet on compact layouts. Search, preview and invoke without leaving the conversation; successful sends close the popover. **Open tab** in its header and the Command Center open the full panel. Requires Paseo 0.13.0 or newer on both daemon and client.
